@@ -40,26 +40,7 @@ public:
     }
 };
 
-
 int main() {
-    /*
-    I   =   1
-    V   =   5
-
-    X   =   10
-    L   =   50
-
-    C   =   100
-    D   =   500
-
-    M   =   1000
-
-    4와 9를 나타내기 위해서,
-    I+V => IV == 4,
-    I+X => IX == 9,
-    C+D => CD == 400,
-    이런 방법을 사용함.
-    */
     Solution* s = new Solution();
     printf("%s", s->intToRoman(2568).c_str());
 }
