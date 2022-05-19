@@ -39,8 +39,3 @@ public:
         return result;
     }
 };
-
-int main() {
-    Solution* s = new Solution();
-    printf("%s", s->intToRoman(2568).c_str());
-}

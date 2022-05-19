@@ -51,10 +51,3 @@ public:
         return answer;
     };
 };
-
-
-int main() {
-    Solution* s = new Solution();
-    s->letterCombinations("5678");
-    delete s;
-}
