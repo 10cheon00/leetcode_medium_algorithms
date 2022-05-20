@@ -21,5 +21,11 @@
     <ClCompile Include="17_Letter Combinations of a Phone Number.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="19_Remove Nth Node From End of List.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="22_Generate Parentheses.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
