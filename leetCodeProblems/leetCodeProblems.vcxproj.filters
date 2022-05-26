@@ -24,7 +24,10 @@
     <ClCompile Include="19_Remove Nth Node From End of List.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="22_Generate Parentheses.cpp">
+    <ClCompile Include="24_Swap Nodes in Pairs.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="31_Next Permutation.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
